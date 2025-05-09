@@ -1,6 +1,7 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="![White Blue Professional Website Developer LinkedIn Banner](https://github.com/user-attachments/assets/ac801f5e-26ff-4156-85c5-8d18e160ee15)" width="100%"/>
+  <img src="![White Blue Professional Website Developer LinkedIn Banner](https://github.com/user-attachments/assets/70de2b78-d816-42eb-852d-bbec4cd7be6b)
+" alt="GitHub Banner" width="100%" />
 
 </p>
 
