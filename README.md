@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.imgur.com/yIpdhQW.png" alt="GitHub Banner" width="100%" />
+  <img src="https://www.canva.com/design/DAGm7TkGUPA/z8jRjG9_H_m4-fFHZQbiLw" alt="GitHub Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there, I'm Mohamed 👋</h1>
