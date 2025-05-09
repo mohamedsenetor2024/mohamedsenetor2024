@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  ![White Blue Professional Website Developer LinkedIn Banner](https://github.com/user-attachments/assets/ac801f5e-26ff-4156-85c5-8d18e160ee15)
+  <img src="![White Blue Professional Website Developer LinkedIn Banner](https://github.com/user-attachments/assets/ac801f5e-26ff-4156-85c5-8d18e160ee15)" width="100%"/>
 
 </p>
 
