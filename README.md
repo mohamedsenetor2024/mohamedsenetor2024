@@ -1,4 +1,4 @@
-![White Blue Professional Website Developer LinkedIn Banner](https://github.com/user-attachments/assets/580cbdb8-dee9-45be-b7b6-3f7a5b91fbac)<!-- Banner Image -->
+<!-- Banner Image -->
 <p align="center">
   <img src="![White Blue Professional Website Developer LinkedIn Banner](https://github.com/user-attachments/assets/912979fe-9a29-4095-a050-ecbc52b65751)
 " alt="GitHub Banner" width="100%" />
