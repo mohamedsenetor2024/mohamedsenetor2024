@@ -1,6 +1,7 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="(https://www.canva.com/design/DAGnBxHpBAA/RNnAnPNxv-szmXaHcgaGgA/edit)" alt="GitHub Banner" width="50%" />
+<a href="https://editor.flixier.com/projects/be6b4f66-74f7-4cea-6074-90f84a5a25c1/export/">GitHub Banner</a>
+ 
 
 </p>
 
