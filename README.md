@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/.../your-banner.png" alt="GitHub Banner" width="100%" />
+  <img src="user-images.githubusercontent.com/.../your-banner.png" alt="GitHub Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there, I'm Mohamed 👋</h1>
