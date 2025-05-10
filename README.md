@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<p>
+<p align="centre">
 <img src="https://user-images.githubusercontent.com/your-banner.png" alt="GitHub Banner" width="100%" />
    
 </p>
