@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="user-images.githubusercontent.com/.../your-banner.png" alt="GitHub Banner" width="50%" />
+  <img src="(https://www.canva.com/design/DAGnBxHpBAA/RNnAnPNxv-szmXaHcgaGgA/edit)" alt="GitHub Banner" width="50%" />
 
 </p>
 
