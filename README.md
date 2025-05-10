@@ -1,8 +1,7 @@
 <!-- Banner Image -->
 <p align="center">
-<!--   <img src="user-images.githubusercontent.com/.../your-banner.png" alt="GitHub Banner" width="100%" /> -->
+  <img src="user-images.githubusercontent.com/.../your-banner.png" alt="GitHub Banner" width="50%" />
 
-  <img src="White Blue Professional Website Developer LinkedIn Banner alt="GitHub Banner">
 </p>
 
 <h1 align="center">Hi there, I'm Mohamed 👋</h1>
