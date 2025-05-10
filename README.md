@@ -1,9 +1,5 @@
 <!-- Banner Image -->
-<p align="center">
-<a href="https://editor.flixier.com/projects/be6b4f66-74f7-4cea-6074-90f84a5a25c1/export/">GitHub Banner</a>
- 
 
-</p>
 
 <h1 align="center">Hi there, I'm Mohamed 👋</h1>
 
